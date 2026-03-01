@@ -1,4 +1,4 @@
-# Diwali-Salles-Data-Analysis-Using-Python-
+# Diwali-Sales-Data-Analysis-Using-Python-
 
 This project analyses Diwali sales data to uncover customer purchasing behaviour, revenue trends, and high-performing product categories. The objective is to generate actionable business insights that can help optimise marketing strategies.
 
